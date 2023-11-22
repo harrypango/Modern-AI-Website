@@ -11,7 +11,7 @@ import {
 } from "./containers";
 import "./App.css";
 
-const App = () => {
+function App() {
   return (
     <div className="App">
       <div className="gradient__bg">
@@ -27,6 +27,6 @@ const App = () => {
       <Footer />
     </div>
   );
-};
+}
 
 export default App;
