@@ -1,18 +1,18 @@
 export const featuresData = [
   {
-    title: "Improving end distrusts instantly ",
-    text: "From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.",
+    title: "AI-Powered Autonomous Vehicles",
+    text: "Self-driving cars leverage machine learning algorithms and sensor data to navigate roads, promising safer transportation and reduced traffic congestion.",
   },
   {
-    title: "Become the tended active",
-    text: "Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.",
+    title: "Natural Language Processing Advancements",
+    text: "Recent advancements in transformer-based models have significantly improved language understanding, leading to more accurate chatbots, language translation, and content summarization.",
   },
   {
-    title: "Message or am nothing",
-    text: "Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.",
+    title: "AI in Financial Services",
+    text: "AI technologies are reshaping the landscape of financial services. Predictive analytics and machine learning algorithms power risk assessment, fraud detection, and personalized financial advice. ",
   },
   {
-    title: "Really boy law county",
-    text: "Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush.",
+    title: "AI and Climate Change Solutions",
+    text: "Machine learning models help optimize energy consumption, predict weather patterns, and enhance environmental monitoring. ",
   },
 ];

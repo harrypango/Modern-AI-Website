@@ -1,18 +1,18 @@
 export const whatGPT3_data = [
   {
     title: "What is GPT-3",
-    text: "We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by.",
+    text: "As AI continues to evolve, the need for ethical governance becomes more pressing. Balancing technological advancements with societal well-being requires deliberate policy frameworks. ",
   },
   {
-    title: "Chatbots",
-    text: "We so opinion friends me message as delight. Whole front do of plate heard oh ought. ",
+    title: "Healthcare",
+    text: "The integration of AI in healthcare has revolutionized diagnostics and treatment. Machine learning algorithms analyze medical data, aiding in early disease detection and personalized treatment plans. ",
   },
   {
-    title: "Knowledgebase",
-    text: "At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b",
+    title: "Cybersecurity",
+    text: " AI's role in cybersecurity is pivotal, leveraging predictive analysis to identify potential threats and adapt in real-time to evolving attack strategies. ",
   },
   {
-    title: "Education",
-    text: "At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b",
+    title: "Creativity",
+    text: "From art to music and literature, AI is reshaping creative landscapes. Generative models create artworks, compose music, and even craft stories, blurring the lines between human creativity and machine-generated content.",
   },
 ];
